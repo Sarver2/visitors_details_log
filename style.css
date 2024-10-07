@@ -15,6 +15,7 @@
 @media (max-width: 425px) {
   .main-container {
     margin-top: 0px;
+    height: fit-content;
   }
 }
 
